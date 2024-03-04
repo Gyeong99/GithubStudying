@@ -1,0 +1,1 @@
+// if press 'W' player go front
